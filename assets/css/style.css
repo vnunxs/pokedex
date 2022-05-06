@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Noto+Sans+JP:wght@500&family=Orbitron:wght@500&display=swap');
+
+body{
+    font-family: 'Orbitron',sans-serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ced4da;
+}
+.pokedex{
+    display:flex;
+    gap: 30px;
+    padding: 30px;
+}

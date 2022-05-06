@@ -26,7 +26,27 @@
     width: 25%;
     border-radius: 50%;
 }
-
+/*
 .listagem .pokemon.ativo{
     background-color: #d00000;
+}*/
+#pikachu{
+    background-color: #ffb700;
 }
+#bulbasaur{
+    background-color: #52b69a;
+}
+#charmander{
+    background-color: #9d0208;
+}
+#squirtle{
+    background-color: #48bfe3;
+}
+#gengar{
+    background-color: #26064b;
+}
+#dragonite{
+    background-color: #f42b03;
+}
+
+

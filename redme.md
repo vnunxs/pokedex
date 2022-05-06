@@ -1,2 +1,2 @@
 ## Pokemon Pokedex ##
-<img src="assets/Pokedex.PNG" alt="POKEDEX">
+<img src="assets/images/Pokedex.PNG" alt="POKEDEX">
